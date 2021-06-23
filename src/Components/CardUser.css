@@ -1,0 +1,17 @@
+
+.card{
+  border-radius:0.5rem;
+  margin-bottom: 30px;
+  text-decoration: none;
+  display: flex;
+}
+
+.container{
+  margin-top: 30px;
+
+}
+.container h3{
+  display: flex;
+  justify-content: center;
+}
+

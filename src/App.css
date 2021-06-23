@@ -1,0 +1,20 @@
+@import url("https://fonts.googleapis.com/css2?family=RocknRoll+One&display=swap");
+@media (min-width: 768px) and (max-width: 1024px) {
+  .col {
+    width: 50%;
+  }
+}
+
+*{
+        box-sizing: border-box;
+}
+.App{
+        font-family: tahoma;
+        margin:0;
+}
+body {
+  height: 100vh;
+  background-image: url(https://www.davidalber.net/images/grayscale-flowers.jpg);
+  background-size: cover;
+  background-position: center;
+}
