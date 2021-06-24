@@ -1,7 +1,7 @@
 
 import React,{useState, useEffect} from 'react'
 import axios from 'axios'
-import CardUserList from './CardUserList';
+import CardUserList from '../CardUser/CardUserList';
 //import Spinner from './Spinner';
 import './useList.css'
 
